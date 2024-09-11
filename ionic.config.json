@@ -1,5 +1,7 @@
 {
-  "name": "IngresAPP",
-  "integrations": {},
+  "name": "myDuoc",
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }
